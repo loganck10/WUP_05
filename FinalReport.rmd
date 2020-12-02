@@ -22,6 +22,8 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
+For the graphical method it shows thqt the drug is more effective on the people who have aids. For the numerical method the people that did not have aids seemed to work more effecient witht eh drug and the placebo.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
@@ -68,3 +70,4 @@ fisher.test(table1)
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+For the aids the drug was more effective than the placebo, and for the people that didn't have aids the placebo was more effective. For the people that had aids the drug was more effective as for the people that did not have aids the placebo seemed to be more effective.
